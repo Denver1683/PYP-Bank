@@ -43,7 +43,7 @@ This project is for **educational and personal use only** and should not be redi
    ```
 2. Navigate to the project folder:
    ```sh
-   cd pyp-banking-system
+   cd PYP-Bank
    ```
 3. Run the banking system:
    ```sh
